@@ -1,4 +1,6 @@
-#!/usr/bin/python
+allikat231998
+brute force
+no
 from __future__ import absolute_import
 from __future__ import print_function
 from six.moves import input
